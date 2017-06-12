@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-kevin is the best.
+Kevin is awesome!!
